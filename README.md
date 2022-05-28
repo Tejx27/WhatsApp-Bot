@@ -2,6 +2,8 @@
 This is WhatsApp Message Sender Simple Bot.
 
 # Installation Process.
+First You have to install Pycharm on your pc and then
+Install the given packages. 
 
 1.pip install pywhatkit
 
