@@ -9,4 +9,4 @@ Install the given packages .
 
 2.pip install flask
 
-Then You have To open your WhatsApp Web on your Chrome or other Any internet Expoloer then run give line of code and run program and wait then it will opwn your whatapp web and send this given message to the given number on this given time.
+Then You have To open your WhatsApp Web on your Chrome or Any other internet Expoloer then run give line of code on your compiler and wait then it will open your whatapp web and send this given message to the given number on this given time.
